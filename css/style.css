@@ -1,1 +1,12 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: #D483E8;
+  font-size: 200%;
+}
+
+.karinaSampleClass{
+  font-family: courier;
+  font-size: 500%;
+  border: 10px dotted red;
+  color: #AEABFF;
+}
